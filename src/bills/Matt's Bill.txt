@@ -1,0 +1,5 @@
+Bill breakdown: 
+food:           ...$19.99 
+drinks:         ...$11.49 
+tip:            ...$5.00 
+total:          ...$36.48
